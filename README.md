@@ -18,3 +18,4 @@
 
 [content-strategy-template.docx](https://github.com/user-attachments/files/21091295/content-strategy-template.docx)
 
+[content-marketing-plan-template.docx](https://github.com/user-attachments/files/21091299/content-marketing-plan-template.docx)
