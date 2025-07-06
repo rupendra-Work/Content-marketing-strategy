@@ -16,3 +16,5 @@
 
 **OUTPUT** 
 
+[content-strategy-template.docx](https://github.com/user-attachments/files/21091295/content-strategy-template.docx)
+
